@@ -7,3 +7,4 @@ This will delete the following -
 - SquirrelSetupLog
 - Non important modules
 - Extra Languages
+- Cache Files
