@@ -1,0 +1,8 @@
+C:\Users\noman\source\repos\Discord-Debloat\Discord-Debloat\bin\Debug\Discord-Debloat.exe.config
+C:\Users\noman\source\repos\Discord-Debloat\Discord-Debloat\bin\Debug\Discord-Debloat.exe
+C:\Users\noman\source\repos\Discord-Debloat\Discord-Debloat\bin\Debug\Discord-Debloat.pdb
+C:\Users\noman\source\repos\Discord-Debloat\Discord-Debloat\obj\Debug\Discord-Debloat.csproj.AssemblyReference.cache
+C:\Users\noman\source\repos\Discord-Debloat\Discord-Debloat\obj\Debug\Discord-Debloat.csproj.CoreCompileInputs.cache
+C:\Users\noman\source\repos\Discord-Debloat\Discord-Debloat\obj\Debug\Discord-Debloat.exe
+C:\Users\noman\source\repos\Discord-Debloat\Discord-Debloat\obj\Debug\Discord-Debloat.pdb
+C:\Users\noman\source\repos\Discord-Debloat\Discord-Debloat\obj\Debug\Discord-Debloat.exe.config
